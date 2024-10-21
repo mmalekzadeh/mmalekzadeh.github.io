@@ -14,7 +14,7 @@
   <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
 {% endif %}
 
-{% capture author_name %}{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}{% endcapture %}
+{% capture author_name %}{{ site.first_name }}{% if site.middle_name %}{{ site.middle_name }}{% endif %} {{ site.last_name }}{% endcapture %}
 
 <!-- Standard metadata -->
 <meta charset="utf-8">
@@ -173,7 +173,7 @@
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
   {% if site.stackoverflow_id %}
-    {% capture link %}https://stackoverflow.com/users/{{ site.stackoverflow_id }}{% endcapture %}
+    {% capture link %}https://stackexchange.com/users/{{ site.stackoverflow_id }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
   {% if site.kaggle_id %}

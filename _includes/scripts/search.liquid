@@ -169,6 +169,16 @@
             },
           },
         {%- endif -%}
+        {%- if site.github_username -%}
+          {
+            id: 'socials-github',
+            title: 'GitHub',
+            section: 'Socials',
+            handler: () => {
+              window.open("https://github.com/{{ site.github_username }}", "_blank");
+            },
+          },
+        {%- endif -%}
         {%- if site.semanticscholar_id -%}
           {
             id: 'socials-semantic-scholar',
@@ -248,17 +258,7 @@
               window.open("https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}", "_blank");
             },
           },
-        {%- endif -%}
-        {%- if site.github_username -%}
-          {
-            id: 'socials-github',
-            title: 'GitHub',
-            section: 'Socials',
-            handler: () => {
-              window.open("https://github.com/{{ site.github_username }}", "_blank");
-            },
-          },
-        {%- endif -%}
+        {%- endif -%}        
         {%- if site.linkedin_username -%}
           {
             id: 'socials-linkedin',
@@ -406,7 +406,7 @@
             title: 'Stackoverflow',
             section: 'Socials',
             handler: () => {
-              window.open("https://stackoverflow.com/users/{{ site.stackoverflow_id }}", "_blank");
+              window.open("https://stackexchange.com/users/{{ site.stackoverflow_id }}", "_blank");
             },
           },
         {%- endif -%}

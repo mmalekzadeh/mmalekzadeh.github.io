@@ -60,7 +60,8 @@ nav_order: 3
             <li>Irene Tenison</li>
             <li>Xavier F. Cadet</li>
             <li>Arnav M Das</li>
-            <li>Arvind Pillai</li>            
+            <li>Arvind Pillai</li> 
+            <li>Fernanda Bezerra</li>           
         </ul>
     </li>
     <li>
@@ -106,6 +107,28 @@ nav_order: 3
             <li> (2012 to 2016) Lecturer of Fundamental of Programming, Computer Architecture, Operating Systems Concepts, Software Engineering, Advanced Programming, Numerical Analysis, Technical and Scientific Presentation, Complex and Dynamic Networks, and Operating Systems Lab, Engineering department</li>
             <li> (2014) Ranked 1st among 30 faculty members of the Engineering Department at Persian Gulf University as the best teacher of the year by official university evaluation</li>
         </ul>
+        </li>
+    </ul>
+<br>
+<h5><b><li>Invited Talks</li></b></h5>
+    <ul>
+        <li> I-X at Imperial College London — 8 November 2024
+        <br>Title: <strong>Elevating Health Awareness through Personalized Multimodal Sensing </strong>
+        </li>
+    </ul>
+    <ul>
+        <li> Sixth Greenedge School at Imperial College London — 21 March 2024 
+        <br>Title: <strong>Tutorial on Privacy and Efficiency in Multi-device Intelligence</strong>
+        </li>
+    </ul>
+    <ul>
+        <li>Department of Electronic and Electrical Engineering at University College London — 15 March 2024 
+        <br>Title: <strong>Multi-device Intelligence with a Data-Centric Approach to Federated Learning </strong>
+        </li>
+    </ul>
+    <ul>
+        <li>Guest Lecture for Federated Learning course at University of Cambridge — 22 February 2024 
+        <br>Title: <strong> Multi-device Federated Learning for Constrained Edge Devices </strong>
         </li>
     </ul>
 </ol>

@@ -199,9 +199,6 @@
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
-      {% if entry.bibtex_show %}
-        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
@@ -257,6 +254,13 @@
       {% if entry.crossref %}
         <a href="#{{ entry.crossref }}" class="btn btn-sm z-depth-0" role="button">Extended Version</a>
       {% endif %}
+      {% if entry.patent %}
+        <a href="{{ entry.patent }}" class="btn btn-sm z-depth-0" role="button">Patent</a>
+      {% endif %}
+      {% if entry.bibtex_show %}
+        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      {% endif %}
+      
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}

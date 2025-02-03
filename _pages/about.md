@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 I lead the Device Intelligence team in the 
-<a href='https://www.bell-labs.com/research-innovation/projects-and-initiatives/software-and-data-systems-research/device-software/'> Device Software Research </a> department
+<a href='https://www.nokia.com/bell-labs/research/sdsr/device-software'> Device Software Research </a> department
 at 
 <a href='https://www.bell-labs.com/about/researcher-profiles/mohammad-malekzadeh/'>Nokia Bell Labs</a>, Cambridge, UK.
 

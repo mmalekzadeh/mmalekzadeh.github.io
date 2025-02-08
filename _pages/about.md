@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Research Scientist & Tech Lead at Nokia Bell Labs
+subtitle: Senior Research Scientist and Tech Lead at Nokia Bell Labs, Cambridge, UK
 
 profile:
   align: left
@@ -14,12 +14,21 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I lead the Device Intelligence team in the 
-<a href='https://www.nokia.com/bell-labs/research/sdsr/device-software'> Device Software Research </a> department
-at 
-<a href='https://www.bell-labs.com/about/researcher-profiles/mohammad-malekzadeh/'>Nokia Bell Labs</a>, Cambridge, UK.
 
-We develop machine learning solutions for private data and personal devices, emphasizing multi-modality, data efficiency, individual privacy, and personalization. Our research is focused on Multimodal Sensing and Machine Learning for Healthcare. We develop advanced signal processing and machine learning algorithms for wearable devices, enhancing health monitoring through on-device machine learning. By leveraging multimodal data, we aim to create personalized, efficient, and privacy-preserving healthcare solutions. Our team includes leading researchers recognized for their pioneering work in on-device machine learning, alongside inspiring PhD interns and visitors whose fresh perspectives are always motivating. 
+I am a <a href='https://www.nokia.com/people/mohammad-malekzadeh/'>Senior Research Scientist</a> at <a href='https://www.nokia.com/bell-labs/'> Nokia Bell Labs</a>, and I lead the Device Intelligence team in the <a href='https://www.nokia.com/bell-labs/research/sdsr/device-software'> Pervasive Systems</a> department.
+
+
+In our team, we develop machine learning solutions for private data and personal devices. Our mission is to advance research and development in personalized healthcare applications through multimodal sensing and on-device machine learning. In our solutions, we prioritize multi-modality, data and compute efficiency, individual privacy, and personalization. Our team brings together leading research scientists, brilliant PhD interns and visitors, as well as expert collaborators to drive innovations that elevate human well-being. 
+Driven by open-source principles, we publish our code to champion reproducibility and collaborative innovation: 
+<a href='https://github.com/Nokia-Bell-Labs/papagei-foundation-model'>PaPaGei</a>,
+<a href='https://github.com/Nokia-Bell-Labs/pretrained-imu-encoders'>PIIMUS</a>,
+<a href='https://github.com/Nokia-Bell-Labs/audio-class-discovery'>SoundCollage</a>,
+<a href='https://github.com/Nokia-Bell-Labs/CroSSL'>CroSSL</a>,
+<a href='https://github.com/Nokia-Bell-Labs/kaizen'>Kaizen</a>,
+<a href='https://github.com/Nokia-Bell-Labs/data-centric-federated-learning'>Centaur</a>,
+<a href='https://github.com/Nokia-Bell-Labs/salted-dnns'>Salted DNNs</a>, and more.
+
+
 
 Previously, I was a Research Associate at Imperial College London, collaborating with Prof. Deniz Gunduz on Privacy-Preserving and Trustworthy Machine Learning. I earned my PhD in Computer Science at Queen Mary University of London while concurrently holding a Research Assistant position at Imperial College London. I had the opportunity to work with Prof. Hamed Haddadi, Dr. Richard G. Clegg, and Prof. Andrea Cavallaro. My PhD research focused on developing machine learning algorithms for privacy-preserving personal data analytics, particularly for data captured by mobile and wearable devices. During my PhD, I also interned at Brave Software Research, where I explored privacy-preserving techniques to enhance content personalization.
 

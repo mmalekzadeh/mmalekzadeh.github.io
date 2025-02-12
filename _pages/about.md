@@ -19,14 +19,14 @@ I am a <a href='https://www.nokia.com/people/mohammad-malekzadeh/'>Senior Resear
 
 
 In our team, we develop machine learning solutions for private data and personal devices. Our mission is to advance research and development in personalized healthcare applications through multimodal sensing and on-device machine learning. In our solutions, we prioritize multi-modality, data and compute efficiency, individual privacy, and personalization. Our team brings together leading research scientists, brilliant PhD interns and visitors, as well as expert collaborators to drive innovations that elevate human well-being. 
-Driven by open-source principles, we publish our code to champion reproducibility and collaborative innovation: 
+Explore our latest <a href='./research/'>research papers</a> and open-source code:
 <a href='https://github.com/Nokia-Bell-Labs/papagei-foundation-model'>PaPaGei</a>,
-<a href='https://github.com/Nokia-Bell-Labs/pretrained-imu-encoders'>PIIMUS</a>,
+<a href='https://github.com/Nokia-Bell-Labs/pretrained-imu-encoders'>PRIMUS</a>,
 <a href='https://github.com/Nokia-Bell-Labs/audio-class-discovery'>SoundCollage</a>,
 <a href='https://github.com/Nokia-Bell-Labs/CroSSL'>CroSSL</a>,
 <a href='https://github.com/Nokia-Bell-Labs/kaizen'>Kaizen</a>,
-<a href='https://github.com/Nokia-Bell-Labs/data-centric-federated-learning'>Centaur</a>,
-<a href='https://github.com/Nokia-Bell-Labs/salted-dnns'>Salted DNNs</a>, and more.
+<a href='https://github.com/Nokia-Bell-Labs/data-centric-federated-learning'>Centaur</a>, and
+<a href='https://github.com/Nokia-Bell-Labs/salted-dnns'>Salted DNNs</a>.
 
 
 

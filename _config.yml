@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Mo
 middle_name: hammad
 last_name: Malekzadeh
-email: mohammad.malekzadeh@nokia-bell-labs.com
+email: moh.malekzadeh@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Senior Researcher and Tech Lead at Bell Labs working on Machine learning for personal data and devices: multimodal, private, and efficient! 
 footer_text: >

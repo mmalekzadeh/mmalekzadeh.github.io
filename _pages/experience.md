@@ -13,17 +13,18 @@ nav_order: 3
     <li>
         <strong>Programme Committee (PC) Member:</strong>
         <ul>
-            <li>Neural Information Processing Systems (NeurIPS 2024)</li>            
+            <li>Neural Information Processing Systems (NeurIPS 2022 - 2025)
+            </li>            
+            <li>ACM/IEEE Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys 2026)</li>
             <li>ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI 2024)</li>
-            <li>Privacy Enhancing Technologies Symposium (PETS 2024)</li>
-            <li>International Conference on Machine Learning (ICML 2023)</li>            
-            <li>Privacy Enhancing Technologies Symposium (PETS 2023)</li>
-            <li>Neural Information Processing Systems (NeurIPS 2022)</li>
+            <li>Privacy Enhancing Technologies Symposium (PETS 2023 - 2024)</li>
+            <li>International Conference on Machine Learning (ICML 2023)
+            </li>                        
             <li>CoNEXT Workshop on Distributed Machine Learning 2022</li>
             <li>MobiSys Security and Privacy for Mobile AI (MAISP Workshop 2021)</li>
             <li>ICLR Distributed and Private Machine Learning (DPML Workshop 2021)</li>
-            <li>Advanced Machine Vision for Real-life (AMV Workshop 2018)</li>
             <li>NeurIPS Workshop on Privacy Preserving Machine Learning (PPML 2020)</li>
+            <li>Advanced Machine Vision for Real-life (AMV Workshop 2018)</li>
         </ul>
     </li>
     <li>
@@ -50,7 +51,7 @@ nav_order: 3
 <h5><b><li>Mentoring and Supervising: Students, Interns, and Visitors</li></b></h5>
 <ul>
     <li>
-        <strong>Nokia Bell Labs (UK)</strong>
+        <strong>Nokia Bell Labs</strong>
         <ul>
             <li>Fan Mo</li>
             <li>Shohreh Deldari</li>
@@ -62,10 +63,14 @@ nav_order: 3
             <li>Arnav M Das</li>
             <li>Arvind Pillai</li> 
             <li>Fernanda Bezerra</li>           
+            <li>Zikang Leng</li>           
+            <li>Gautham Krishna Gudur</li>           
+            <li>Hyungjun Yoon</li>           
+            <li>Yuxuan Shu</li>           
         </ul>
     </li>
     <li>
-        <strong>Imperial College London (UK)</strong>
+        <strong>Imperial College London</strong>
         <ul>
             <li>Edoardo Lisi</li>
             <li>Kunal Katarya</li>
@@ -74,7 +79,7 @@ nav_order: 3
         </ul>
     </li>
     <li>
-        <strong>Persian Gulf University (Iran)</strong>
+        <strong>Persian Gulf University</strong>
         <ul>
             <li>Marzieh Barghandan</li>
             <li>Atefeh Safdel</li>
@@ -90,19 +95,19 @@ nav_order: 3
 <br>
 <h5><b><li>Teaching: Lecturer and Demonstrator</li></b></h5>
     <ul>
-        <li><strong>Imperial College London (UK)</strong>
+        <li><strong>Imperial College London</strong>
         <ul>
             <li>(2021) Lecturer of Machine Learning Course, EEE department </li>
             <li>(2018 and 2019) Graduate Teaching Assistants of Sensing and IoT course, Design Engineering department</li>
         </ul>
         </li>
-        <li><strong>Queen Mary University of London (UK)</strong>
+        <li><strong>Queen Mary University of London</strong>
         <ul>            
             <li> (2018 to 2020) Graduate Teaching Assistants of Three Courses:Security, Data Analytics, and Software Engineering, School of Electronic Engineering and Computer Science</li>
             <li> (2020) Presenting a Tutorial on Deep Learning for Privacy in Multimedia, for ACM International Conference on Multimedia</li>
         </ul>
         </li>
-        <li><strong>Persian Gulf University (Iran)</strong>
+        <li><strong>Persian Gulf University</strong>
         <ul>            
             <li> (2012 to 2016) Lecturer of Fundamental of Programming, Computer Architecture, Operating Systems Concepts, Software Engineering, Advanced Programming, Numerical Analysis, Technical and Scientific Presentation, Complex and Dynamic Networks, and Operating Systems Lab, Engineering department</li>
             <li> (2014) Ranked 1st among 30 faculty members of the Engineering Department at Persian Gulf University as the best teacher of the year by official university evaluation</li>
@@ -112,22 +117,37 @@ nav_order: 3
 <br>
 <h5><b><li>Invited Talks</li></b></h5>
     <ul>
-        <li> I-X at Imperial College London — 8 November 2024
-        <br>Title: <strong>Elevating Health Awareness through Personalized Multimodal Sensing </strong>
+        <li>  University of Manchester — July 2025
+        <br>Title: <strong> Multimodal Wearable Sensing for Preventive Healthcare </strong>
         </li>
     </ul>
     <ul>
-        <li> Sixth Greenedge School at Imperial College London — 21 March 2024 
-        <br>Title: <strong>Tutorial on Privacy and Efficiency in Multi-device Intelligence</strong>
-        </li>
-    </ul>
-    <ul>
-        <li>Department of Electronic and Electrical Engineering at University College London — 15 March 2024 
+        <li> Department of Electronic and Electrical Engineering at University College London — March 2025
         <br>Title: <strong>Multi-device Intelligence with a Data-Centric Approach to Federated Learning </strong>
         </li>
     </ul>
     <ul>
-        <li>Guest Lecture for Federated Learning course at University of Cambridge — 22 February 2024 
+        <li> Big Data Institute at University of Oxford — November 2024
+        <br>Title: <strong>Self-Supervised and Data-Centric Algorithms for Wearable Intelligence </strong>
+        </li>
+    </ul>
+    <ul>
+        <li> I-X at Imperial College London — November 2024
+        <br>Title: <strong>Elevating Health Awareness through Personalized Multimodal Sensing </strong>
+        </li>
+    </ul>
+    <ul>
+        <li> Sixth Greenedge School at Imperial College London — March 2024 
+        <br>Title: <strong>Tutorial on Privacy and Efficiency in Multi-device Intelligence</strong>
+        </li>
+    </ul>
+    <ul>
+        <li>Department of Electronic and Electrical Engineering at University College London — March 2024 
+        <br>Title: <strong>Multi-device Intelligence with a Data-Centric Approach to Federated Learning </strong>
+        </li>
+    </ul>
+    <ul>
+        <li>Guest Lecture for Federated Learning course at University of Cambridge — February 2024 
         <br>Title: <strong> Multi-device Federated Learning for Constrained Edge Devices </strong>
         </li>
     </ul>

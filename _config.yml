@@ -8,7 +8,7 @@ middle_name: hammad
 last_name: Malekzadeh
 email: moh.malekzadeh@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Senior Researcher and Tech Lead at Bell Labs working on Machine learning for personal data and devices: multimodal, private, and efficient! 
+  Senior Researcher and Tech Lead working on Machine learning for personal data and devices: multimodal, private, and efficient! 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: On-device Machine Learning, Data Privacy, Data-centric ML, Federated Learning, Ubiquitous Computing, Nokia Bell Labs, Imperial College London, Queen Mary University of London, Cambridge # add your own keywords

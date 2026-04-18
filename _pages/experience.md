@@ -13,7 +13,7 @@ nav_order: 3
     <li>
         <strong>Programme Committee (PC) Member:</strong>
         <ul>
-            <li>Neural Information Processing Systems (NeurIPS 2022 - 2025)
+            <li>Neural Information Processing Systems (NeurIPS 2022 - 2026)
             </li>            
             <li>ACM/IEEE Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys 2026)</li>
             <li>ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI 2024)</li>

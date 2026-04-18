@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher, Engineer, and Tech Lead
+subtitle: Principal Applied Scientist at Microsoft  |  On-Device Machine Learning
 
 profile:
   align: left
@@ -14,9 +14,9 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+In the Applied Sciences group at Microsoft, I work on on-device machine learning to improve efficiency and generalization of AI models deployed at the edge.
 
-Previously, I was a <a href='https://www.nokia.com/people/mohammad-malekzadeh/'>Senior Research Scientist</a> at <a href='https://www.nokia.com/bell-labs/'> Nokia Bell Labs</a>, and I led the Device Intelligence team in the <a href='https://www.nokia.com/bell-labs/research/sdsr/device-software'> Pervasive Systems</a> department. In our team, we developed machine learning solutions for private data and personal devices. Our mission was to advance research and development in personalized healthcare applications through multimodal sensing and on-device machine learning. In our solutions, we prioritize multi-modality, data and compute efficiency, individual privacy, and personalization. We brought together leading research scientists, brilliant PhD interns and visitors, as well as expert collaborators to drive innovations that elevate human well-being. 
-Explore our latest <a href='./research/'>research papers</a> and open-source code:
+Previously, I was a Senior Research Scientist at Nokia Bell Labs, where I led the Device Intelligence team in the Pervasive Systems department. We developed machine learning solutions for private data and personal devices, to advance personalized healthcare applications through multimodal sensing and on-device machine learning. We prioritized multi-modality, data and compute efficiency, individual privacy, and personalization to drive innovations that elevate human well-being. Explore our <a href='./research/'>research papers</a> and open-source code:
 <a href='https://github.com/Nokia-Bell-Labs/ecg-foundation-model'>CLEF</a>,
 <a href='https://github.com/Nokia-Bell-Labs/papagei-foundation-model'>PaPaGei</a>,
 <a href='https://github.com/Nokia-Bell-Labs/CroSSL'>CroSSL</a>,
